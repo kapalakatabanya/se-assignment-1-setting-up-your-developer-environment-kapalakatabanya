@@ -52,3 +52,12 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+DOCUMENTATION FROM THE ABOVE GUIDANCE
+
+1. installation of OS (window 11)
+
+step by step installation
+
+>> download rufus of Power iso for creation of Bootable (window image bootable) for myself i choosen rufus for creating window image bootable as per below screenshot (Attached on word doc)
